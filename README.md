@@ -9,8 +9,20 @@ go to database -> schema.prisma and configurate your database
 
 # Requirements
 - This bot is made with Python3.8 so use this version
-- Open the file install.bat and wait, than follow its instructions
 - you also need to install prisma
+# Instructions
+- - configure the bot with config.json using a text editor.
+## Windows
+- Run ```install.bat```.
+```
+install.bat
+```
+## Linux
+- Run ```install.sh```
+```
+sh ./install.sh
+```
+
 # Starting the bot
 - Just run the file that creates after you have opened install.bat (the file name is: "start.bat")
 # Problems
@@ -19,4 +31,5 @@ go to database -> schema.prisma and configurate your database
 
 # Helpers
 - I want to say a big thank you for all the support i got from the help channel of disnake
-- Borgo 
+- Borgo
+-ivyisdead
